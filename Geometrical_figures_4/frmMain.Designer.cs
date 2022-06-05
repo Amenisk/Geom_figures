@@ -1,4 +1,6 @@
-﻿namespace Geom_fig_3
+﻿//Ziyatdinov Kamil 220 group "Geometrical figures 4" 30.05.2022
+
+namespace Geom_fig_3
 {
     partial class frmMain
     {

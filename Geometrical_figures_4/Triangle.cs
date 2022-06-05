@@ -1,4 +1,4 @@
-﻿//Ziyatdinov Kamil 220 group "Geometrical figures 4" 30.04.2022
+﻿//Ziyatdinov Kamil 220 group "Geometrical figures 4" 30.05.2022
 
 using System;
 using System.Drawing;
